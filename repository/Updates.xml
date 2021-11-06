@@ -10,11 +10,11 @@
   <ReleaseDate>2021-11-06</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" UncompressedSize="70628410" CompressedSize="27929084"/>
+  <UpdateFile CompressedSize="27929084" UncompressedSize="70628410" OS="Any"/>
   <DownloadableArchives>Locals.7z,Parameter.7z,plugins.7z,script.7z,translations.7z,content.7z</DownloadableArchives>
   <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>dd505a722c944a30b1bc832cf7d7358f8fe3959d</SHA1>
+  <SHA1>91c5bbe3c69352590bc09bf844bf891c61c9d431</SHA1>
  </PackageUpdate>
- <SHA1>dd505a722c944a30b1bc832cf7d7358f8fe3959d</SHA1>
- <MetadataName>2021-11-06-1210_meta.7z</MetadataName>
+ <SHA1>91c5bbe3c69352590bc09bf844bf891c61c9d431</SHA1>
+ <MetadataName>2021-11-06-1213_meta.7z</MetadataName>
 </Updates>
