@@ -6,15 +6,15 @@
   <Name>org.qstech.maxconfig</Name>
   <DisplayName>MaxConfig3</DisplayName>
   <Description>LED display control software.</Description>
-  <Version>3.0.14-9</Version>
+  <Version>3.0.14-10</Version>
   <ReleaseDate>2021-11-10</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="27937002" OS="Any" UncompressedSize="70653066"/>
+  <UpdateFile UncompressedSize="70653066" CompressedSize="27937002" OS="Any"/>
   <DownloadableArchives>Locals.7z,Parameter.7z,plugins.7z,script.7z,translations.7z,content.7z</DownloadableArchives>
   <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>40ebd983adb358711f3efb68ebba9721d7bbc146</SHA1>
+  <SHA1>195d6573dcab5c3a79aa5929eb5d7b1ddbbeafda</SHA1>
  </PackageUpdate>
- <SHA1>40ebd983adb358711f3efb68ebba9721d7bbc146</SHA1>
- <MetadataName>2021-11-10-1609_meta.7z</MetadataName>
+ <SHA1>195d6573dcab5c3a79aa5929eb5d7b1ddbbeafda</SHA1>
+ <MetadataName>2021-11-10-1611_meta.7z</MetadataName>
 </Updates>
