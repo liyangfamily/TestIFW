@@ -7,14 +7,14 @@
   <DisplayName>MaxConfig3</DisplayName>
   <Description>LED display control software.</Description>
   <Version>3.1.1</Version>
-  <ReleaseDate>2022-01-13</ReleaseDate>
+  <ReleaseDate>2022-01-17</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="29117163" OS="Any" UncompressedSize="74110262"/>
+  <UpdateFile OS="Any" CompressedSize="29046610" UncompressedSize="72852664"/>
   <DownloadableArchives>doc.7z,Locals.7z,Parameter.7z,plugins.7z,script.7z,translations.7z,content.7z</DownloadableArchives>
   <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>e854826ca1caf1328d1c58c7ca1d6d626767a3bd</SHA1>
+  <SHA1>57ffda5f19c4819e8bc8f52785cb0fc8103115db</SHA1>
  </PackageUpdate>
- <SHA1>e854826ca1caf1328d1c58c7ca1d6d626767a3bd</SHA1>
- <MetadataName>2022-01-13-1128_meta.7z</MetadataName>
+ <SHA1>57ffda5f19c4819e8bc8f52785cb0fc8103115db</SHA1>
+ <MetadataName>2022-01-17-1515_meta.7z</MetadataName>
 </Updates>
